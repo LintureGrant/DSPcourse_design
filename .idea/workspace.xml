@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/main.py" line="759" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1650966-642f-41c4-9cd4-406557656a93" name="默认" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DSP_python$Audio_FFT.coverage" NAME="Audio_FFT Coverage Results" MODIFIED="1615565507656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$Audio_Process_YP.coverage" NAME="Audio_Process_YP Coverage Results" MODIFIED="1615561289153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$test.coverage" NAME="test Coverage Results" MODIFIED="1615647020575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$example.coverage" NAME="example Coverage Results" MODIFIED="1615793981632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$main.coverage" NAME="main Coverage Results" MODIFIED="1617619142136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$Audio_Process_Frequency.coverage" NAME="Audio_Process_Frequency Coverage Results" MODIFIED="1615546951463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$Audio.coverage" NAME="Audio Coverage Results" MODIFIED="1615564556603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$exam.coverage" NAME="exam Coverage Results" MODIFIED="1615475519219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_python$FIR.coverage" NAME="FIR Coverage Results" MODIFIED="1617584426511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/com$main.coverage" NAME="main Coverage Results" MODIFIED="1622558266140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#24#42#0" expanded="true" />
+                <element signature="e#544#33032#0" expanded="false" />
+                <element signature="e#594#2138#0" expanded="false" />
+                <element signature="e#2193#4423#0" expanded="false" />
+                <element signature="e#4474#5621#0" expanded="false" />
+                <element signature="e#5667#23318#0" expanded="false" />
+                <element signature="e#5741#9715#0" expanded="false" />
+                <element signature="e#9790#14161#0" expanded="false" />
+                <element signature="e#14237#18530#0" expanded="false" />
+                <element signature="e#18597#22854#0" expanded="false" />
+                <element signature="e#23360#26053#0" expanded="false" />
+                <element signature="e#26099#30448#0" expanded="false" />
+                <element signature="e#30490#33030#0" expanded="false" />
+                <element signature="e#33220#37220#0" expanded="false" />
+                <element signature="e#37257#38127#0" expanded="false" />
+                <element signature="e#38163#39031#0" expanded="false" />
+                <element signature="e#39067#39957#0" expanded="false" />
+                <element signature="e#40050#41099#0" expanded="false" />
+                <element signature="e#41160#41955#0" expanded="false" />
+                <element signature="e#41990#42495#0" expanded="false" />
+                <element signature="e#42532#44566#0" expanded="false" />
+                <element signature="e#44603#44739#0" expanded="false" />
+                <element signature="e#44777#44914#0" expanded="false" />
+                <element signature="e#44951#45092#0" expanded="false" />
+                <element signature="e#45129#45272#0" expanded="false" />
+                <element signature="e#45309#45889#0" expanded="false" />
+                <element signature="e#45922#47437#0" expanded="false" />
+                <element signature="e#48265#48834#0" expanded="false" />
+                <element signature="e#48868#50248#0" expanded="false" />
+                <element signature="e#50285#51158#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterDesigner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FilterDesigner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17050">
+              <caret line="550" column="71" lean-forward="false" selection-start-line="550" selection-start-column="60" selection-end-line="550" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter_design.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/scipy/signal/filter_design.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7967">
+              <caret line="273" column="4" lean-forward="false" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QtMultimedia.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/QtMultimedia.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51522">
+              <caret line="1670" column="54" lean-forward="false" selection-start-line="1670" selection-start-column="42" selection-end-line="1670" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QtCore.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/QtCore.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69595">
+              <caret line="2249" column="4" lean-forward="false" selection-start-line="2249" selection-start-column="4" selection-end-line="2249" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>axes0</find>
+      <find>mpl</find>
+      <find>fcb</find>
+      <find>slider</find>
+      <find>label_17</find>
+      <find>fig3</find>
+      <find>precessed_Audio</find>
+      <find>process_flag</find>
+      <find>self.isPlay_</find>
+      <find>self.player_IIR.play()</find>
+      <find>mediaPlayer</find>
+      <find>QIODevice</find>
+      <find>os</find>
+      <find>wo cao</find>
+      <find>progressBar</find>
+      <find>omiga_wp</find>
+      <find>self.progressBar.setValue(20)</find>
+      <find>num</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exam.py" />
+        <option value="$PROJECT_DIR$/testplot2pyqt5.py" />
+        <option value="$PROJECT_DIR$/Audio_Process_Frequency.py" />
+        <option value="$PROJECT_DIR$/Audio_Process_YP.py" />
+        <option value="$PROJECT_DIR$/Audio.py" />
+        <option value="$PROJECT_DIR$/Audio_FFT.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/FilterDesigner.py" />
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$PROJECT_DIR$/FIR.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="外部库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-2.6.6/resources/app/git/mingw64/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="Audio_FFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Audio_FFT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FIR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FIR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="DSP-python" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="不至于">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="文档">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DSP-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Audio_FFT" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FIR" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FIR" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Audio_FFT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1650966-642f-41c4-9cd4-406557656a93" name="默认" comment="" />
+      <created>1614784798861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614784798861</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add a fft figure of audio passed the IIR filter">
+      <created>1616563006400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616563006400</updated>
+    </task>
+    <task id="LOCAL-00002" summary="desolved the problem that filter couldn't work">
+      <created>1616596068251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616596068251</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#">
+      <created>1616602983964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616602983964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#">
+      <created>1616689541146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616689541146</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#&#10;&#10;all of function have been down, but still have some problems: the audio file couldn't be written repeatedly.&#10;#* 29,MAR,2021 *#">
+      <created>1617005555459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617005555459</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#&#10;&#10;all of function have been down, but still have some problems: the audio file couldn't be written repeatedly.&#10;#* 29,MAR,2021 *#&#10;&#10;still remained problem:IIR passband filter and pass_stop filter have the NAN values&#10;accomplish IIR filter type, I still have two type of filter need to be written;&#10;In addition, a README document is needed, too.&#10;#* 4,APR,2021 *#">
+      <created>1617548202875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617548202875</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17518637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27363738" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28932893" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add a fft figure of audio passed the IIR filter" />
+    <MESSAGE value="desolved the problem that filter couldn't work" />
+    <MESSAGE value="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#" />
+    <MESSAGE value="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#" />
+    <MESSAGE value="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#&#10;&#10;all of function have been down, but still have some problems: the audio file couldn't be written repeatedly.&#10;#* 29,MAR,2021 *#" />
+    <MESSAGE value="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#&#10;&#10;all of function have been down, but still have some problems: the audio file couldn't be written repeatedly.&#10;#* 29,MAR,2021 *#&#10;&#10;still remained problem:IIR passband filter and pass_stop filter have the NAN values&#10;accomplish IIR filter type, I still have two type of filter need to be written;&#10;In addition, a README document is needed, too.&#10;#* 4,APR,2021 *#" />
+    <option name="LAST_COMMIT_MESSAGE" value="some problems still need to be solved, I'm so said.....&#10;#* 25,MAR,2021 *#&#10;Solved:&#10;solved the problem that the horizontal bar couldn't timely display the progress of being palyed audio&#10;Remained:&#10;fir:the FFT diagram should be cut off the minus frequency part&#10;sed:there is a diagram still need to be painted cause I really don't know what need to be illustrated now&#10;3th:I think this project is about being finished, but the FIR part should be done as fast as possible&#10;#* 26,MAR,2021 *#&#10;&#10;all of function have been down, but still have some problems: the audio file couldn't be written repeatedly.&#10;#* 29,MAR,2021 *#&#10;&#10;still remained problem:IIR passband filter and pass_stop filter have the NAN values&#10;accomplish IIR filter type, I still have two type of filter need to be written;&#10;In addition, a README document is needed, too.&#10;#* 4,APR,2021 *#" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exam.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/testplot2pyqt5.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="155" column="26" lean-forward="true" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#544#33032#0" expanded="false" />
+            <element signature="e#594#2138#0" expanded="false" />
+            <element signature="e#2193#4423#0" expanded="false" />
+            <element signature="e#4474#5621#0" expanded="false" />
+            <element signature="e#5667#23318#0" expanded="false" />
+            <element signature="e#5741#9715#0" expanded="false" />
+            <element signature="e#9790#14161#0" expanded="false" />
+            <element signature="e#14237#18530#0" expanded="false" />
+            <element signature="e#18597#22854#0" expanded="false" />
+            <element signature="e#23360#26053#0" expanded="false" />
+            <element signature="e#26099#30448#0" expanded="false" />
+            <element signature="e#30490#33030#0" expanded="false" />
+            <element signature="e#33220#37220#0" expanded="false" />
+            <element signature="e#37257#38127#0" expanded="false" />
+            <element signature="e#38163#39031#0" expanded="false" />
+            <element signature="e#39067#39957#0" expanded="false" />
+            <element signature="e#40050#41099#0" expanded="false" />
+            <element signature="e#41160#41955#0" expanded="false" />
+            <element signature="e#41990#42495#0" expanded="false" />
+            <element signature="e#42532#44566#0" expanded="false" />
+            <element signature="e#44603#44739#0" expanded="false" />
+            <element signature="e#44777#44914#0" expanded="false" />
+            <element signature="e#44951#45092#0" expanded="false" />
+            <element signature="e#45129#45272#0" expanded="false" />
+            <element signature="e#45309#45889#0" expanded="false" />
+            <element signature="e#45922#47437#0" expanded="false" />
+            <element signature="e#48265#48834#0" expanded="false" />
+            <element signature="e#48868#50248#0" expanded="false" />
+            <element signature="e#50285#51158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/scipy/signal/filter_design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88164">
+          <caret line="2844" column="65" lean-forward="false" selection-start-line="2844" selection-start-column="65" selection-end-line="2844" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Audio.py" />
+    <entry file="file://$PROJECT_DIR$/Audio_FFT.py" />
+    <entry file="file://$PROJECT_DIR$/Audio_Process_Frequency.py" />
+    <entry file="file://$PROJECT_DIR$/Audio_Process_YP.py" />
+    <entry file="file://$PROJECT_DIR$/exam.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/testplot2pyqt5.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3627">
+          <caret line="128" column="25" lean-forward="true" selection-start-line="128" selection-start-column="25" selection-end-line="128" selection-end-column="25" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#544#33032#0" expanded="false" />
+            <element signature="e#594#2138#0" expanded="false" />
+            <element signature="e#2193#4423#0" expanded="false" />
+            <element signature="e#4474#5621#0" expanded="false" />
+            <element signature="e#5667#23318#0" expanded="false" />
+            <element signature="e#5741#9715#0" expanded="false" />
+            <element signature="e#9790#14161#0" expanded="false" />
+            <element signature="e#14237#18530#0" expanded="false" />
+            <element signature="e#18597#22854#0" expanded="false" />
+            <element signature="e#23360#26053#0" expanded="false" />
+            <element signature="e#26099#30448#0" expanded="false" />
+            <element signature="e#30490#33030#0" expanded="false" />
+            <element signature="e#33220#37220#0" expanded="false" />
+            <element signature="e#37257#38127#0" expanded="false" />
+            <element signature="e#38163#39031#0" expanded="false" />
+            <element signature="e#39067#39957#0" expanded="false" />
+            <element signature="e#40050#41099#0" expanded="false" />
+            <element signature="e#41160#41955#0" expanded="false" />
+            <element signature="e#41990#42495#0" expanded="false" />
+            <element signature="e#42532#44566#0" expanded="false" />
+            <element signature="e#44603#44739#0" expanded="false" />
+            <element signature="e#44777#44914#0" expanded="false" />
+            <element signature="e#44951#45092#0" expanded="false" />
+            <element signature="e#45129#45272#0" expanded="false" />
+            <element signature="e#45309#45889#0" expanded="false" />
+            <element signature="e#45922#47437#0" expanded="false" />
+            <element signature="e#48265#48834#0" expanded="false" />
+            <element signature="e#48868#50248#0" expanded="false" />
+            <element signature="e#50285#51158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#544#33032#0" expanded="false" />
+            <element signature="e#594#2138#0" expanded="false" />
+            <element signature="e#2193#4423#0" expanded="false" />
+            <element signature="e#4474#5621#0" expanded="false" />
+            <element signature="e#5667#23318#0" expanded="false" />
+            <element signature="e#5741#9715#0" expanded="false" />
+            <element signature="e#9790#14161#0" expanded="false" />
+            <element signature="e#14237#18530#0" expanded="false" />
+            <element signature="e#18597#22854#0" expanded="false" />
+            <element signature="e#23360#26053#0" expanded="false" />
+            <element signature="e#26099#30448#0" expanded="false" />
+            <element signature="e#30490#33030#0" expanded="false" />
+            <element signature="e#33220#37220#0" expanded="false" />
+            <element signature="e#37257#38127#0" expanded="false" />
+            <element signature="e#38163#39031#0" expanded="false" />
+            <element signature="e#39067#39957#0" expanded="false" />
+            <element signature="e#40050#41099#0" expanded="false" />
+            <element signature="e#41160#41955#0" expanded="false" />
+            <element signature="e#41990#42495#0" expanded="false" />
+            <element signature="e#42532#44566#0" expanded="false" />
+            <element signature="e#44603#44739#0" expanded="false" />
+            <element signature="e#44777#44914#0" expanded="false" />
+            <element signature="e#44951#45092#0" expanded="false" />
+            <element signature="e#45129#45272#0" expanded="false" />
+            <element signature="e#45309#45889#0" expanded="false" />
+            <element signature="e#45922#47437#0" expanded="false" />
+            <element signature="e#48265#48834#0" expanded="false" />
+            <element signature="e#48868#50248#0" expanded="false" />
+            <element signature="e#50285#51158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1953">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#544#33032#0" expanded="false" />
+            <element signature="e#594#2138#0" expanded="false" />
+            <element signature="e#2193#4423#0" expanded="false" />
+            <element signature="e#4474#5621#0" expanded="false" />
+            <element signature="e#5667#23318#0" expanded="false" />
+            <element signature="e#5741#9715#0" expanded="false" />
+            <element signature="e#9790#14161#0" expanded="false" />
+            <element signature="e#14237#18530#0" expanded="false" />
+            <element signature="e#18597#22854#0" expanded="false" />
+            <element signature="e#23360#26053#0" expanded="false" />
+            <element signature="e#26099#30448#0" expanded="false" />
+            <element signature="e#30490#33030#0" expanded="false" />
+            <element signature="e#33220#37220#0" expanded="false" />
+            <element signature="e#37257#38127#0" expanded="false" />
+            <element signature="e#38163#39031#0" expanded="false" />
+            <element signature="e#39067#39957#0" expanded="false" />
+            <element signature="e#40050#41099#0" expanded="false" />
+            <element signature="e#41160#41955#0" expanded="false" />
+            <element signature="e#41990#42495#0" expanded="false" />
+            <element signature="e#42532#44566#0" expanded="false" />
+            <element signature="e#44603#44739#0" expanded="false" />
+            <element signature="e#44777#44914#0" expanded="false" />
+            <element signature="e#44951#45092#0" expanded="false" />
+            <element signature="e#45129#45272#0" expanded="false" />
+            <element signature="e#45309#45889#0" expanded="false" />
+            <element signature="e#45922#47437#0" expanded="false" />
+            <element signature="e#48265#48834#0" expanded="false" />
+            <element signature="e#48868#50248#0" expanded="false" />
+            <element signature="e#50285#51158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#544#33032#0" expanded="false" />
+            <element signature="e#594#2138#0" expanded="false" />
+            <element signature="e#2193#4423#0" expanded="false" />
+            <element signature="e#4474#5621#0" expanded="false" />
+            <element signature="e#5667#23318#0" expanded="false" />
+            <element signature="e#5741#9715#0" expanded="false" />
+            <element signature="e#9790#14161#0" expanded="false" />
+            <element signature="e#14237#18530#0" expanded="false" />
+            <element signature="e#18597#22854#0" expanded="false" />
+            <element signature="e#23360#26053#0" expanded="false" />
+            <element signature="e#26099#30448#0" expanded="false" />
+            <element signature="e#30490#33030#0" expanded="false" />
+            <element signature="e#33220#37220#0" expanded="false" />
+            <element signature="e#37257#38127#0" expanded="false" />
+            <element signature="e#38163#39031#0" expanded="false" />
+            <element signature="e#39067#39957#0" expanded="false" />
+            <element signature="e#40050#41099#0" expanded="false" />
+            <element signature="e#41160#41955#0" expanded="false" />
+            <element signature="e#41990#42495#0" expanded="false" />
+            <element signature="e#42532#44566#0" expanded="false" />
+            <element signature="e#44603#44739#0" expanded="false" />
+            <element signature="e#44777#44914#0" expanded="false" />
+            <element signature="e#44951#45092#0" expanded="false" />
+            <element signature="e#45129#45272#0" expanded="false" />
+            <element signature="e#45309#45889#0" expanded="false" />
+            <element signature="e#45922#47437#0" expanded="false" />
+            <element signature="e#48265#48834#0" expanded="false" />
+            <element signature="e#48868#50248#0" expanded="false" />
+            <element signature="e#50285#51158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/230325006/PyQt5/QtWidgets/QPushButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/matplotlib/backends/backend_agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="586" column="0" lean-forward="false" selection-start-line="586" selection-start-column="0" selection-end-line="586" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/uic/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="486" column="24" lean-forward="false" selection-start-line="486" selection-start-column="8" selection-end-line="486" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/matplotlib/backends/backend_qt5agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="1890" column="0" lean-forward="false" selection-start-line="1890" selection-start-column="0" selection-end-line="1890" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="2002" column="0" lean-forward="false" selection-start-line="2002" selection-start-column="0" selection-end-line="2002" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="1340" column="8" lean-forward="false" selection-start-line="1340" selection-start-column="8" selection-end-line="1340" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py" />
+    <entry file="file://$PROJECT_DIR$/Audio_Process_YP.py" />
+    <entry file="file://$PROJECT_DIR$/exam.py" />
+    <entry file="file://$PROJECT_DIR$/testplot2pyqt5.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/matplotlib/ticker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="2197" column="0" lean-forward="false" selection-start-line="2197" selection-start-column="0" selection-end-line="2197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="2446" column="0" lean-forward="false" selection-start-line="2446" selection-start-column="0" selection-end-line="2446" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/scipy/signal/signaltools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1043">
+          <caret line="3860" column="18" lean-forward="false" selection-start-line="3860" selection-start-column="13" selection-end-line="3860" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/scipy/signal/ltisys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="218" column="8" lean-forward="false" selection-start-line="218" selection-start-column="8" selection-end-line="218" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Audio_Process_Frequency.py" />
+    <entry file="file://$PROJECT_DIR$/Audio.py" />
+    <entry file="file://$PROJECT_DIR$/Audio_FFT.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/scipy/signal/fir_filter_design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="289" column="34" lean-forward="true" selection-start-line="289" selection-start-column="34" selection-end-line="289" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/wave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="326" column="0" lean-forward="false" selection-start-line="326" selection-start-column="0" selection-end-line="326" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FIR.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/QtCore.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69595">
+          <caret line="2249" column="4" lean-forward="false" selection-start-line="2249" selection-start-column="4" selection-end-line="2249" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/QtMultimedia.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51522">
+          <caret line="1670" column="54" lean-forward="false" selection-start-line="1670" selection-start-column="42" selection-end-line="1670" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/scipy/signal/filter_design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7967">
+          <caret line="273" column="4" lean-forward="false" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilterDesigner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17050">
+          <caret line="550" column="71" lean-forward="false" selection-start-line="550" selection-start-column="60" selection-end-line="550" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Vlc360py-master/vlc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3162">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+            <element signature="e#544#33032#0" expanded="false" />
+            <element signature="e#594#2138#0" expanded="false" />
+            <element signature="e#2193#4423#0" expanded="false" />
+            <element signature="e#4474#5621#0" expanded="false" />
+            <element signature="e#5667#23318#0" expanded="false" />
+            <element signature="e#5741#9715#0" expanded="false" />
+            <element signature="e#9790#14161#0" expanded="false" />
+            <element signature="e#14237#18530#0" expanded="false" />
+            <element signature="e#18597#22854#0" expanded="false" />
+            <element signature="e#23360#26053#0" expanded="false" />
+            <element signature="e#26099#30448#0" expanded="false" />
+            <element signature="e#30490#33030#0" expanded="false" />
+            <element signature="e#33220#37220#0" expanded="false" />
+            <element signature="e#37257#38127#0" expanded="false" />
+            <element signature="e#38163#39031#0" expanded="false" />
+            <element signature="e#39067#39957#0" expanded="false" />
+            <element signature="e#40050#41099#0" expanded="false" />
+            <element signature="e#41160#41955#0" expanded="false" />
+            <element signature="e#41990#42495#0" expanded="false" />
+            <element signature="e#42532#44566#0" expanded="false" />
+            <element signature="e#44603#44739#0" expanded="false" />
+            <element signature="e#44777#44914#0" expanded="false" />
+            <element signature="e#44951#45092#0" expanded="false" />
+            <element signature="e#45129#45272#0" expanded="false" />
+            <element signature="e#45309#45889#0" expanded="false" />
+            <element signature="e#45922#47437#0" expanded="false" />
+            <element signature="e#48265#48834#0" expanded="false" />
+            <element signature="e#48868#50248#0" expanded="false" />
+            <element signature="e#50285#51158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
